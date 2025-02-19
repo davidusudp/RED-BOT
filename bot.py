@@ -7,6 +7,9 @@ choice = input("Choice: ");
 bots = input("Bots: ");
 nickname = "MCBOT31"
 
-for yes in choice();
-th.Threading(int(ip), int(port);
-th.start()
+for yes in choice():
+th.Threading(target=test);
+thread.start()
+
+for thread in threads():
+thread.join();
