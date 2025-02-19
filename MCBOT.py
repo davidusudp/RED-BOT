@@ -33,7 +33,6 @@ os.system("clear")
 #
 #
 #
-c = int(input("\033[31mMCBOT: "))
 host = str(input("IP: "))
 port = int(input("PORT: "))
 os. system("clear")
